@@ -1,0 +1,17 @@
+{
+    "name": "lighp/lib-mailer",
+    "description": "A library to send emails.",
+    "license": "MIT",
+    "version": "0.1",
+    "type":"lighp-module",
+    "authors": [
+        {
+            "name": "emersion",
+            "email": "contact@emersion.fr"
+        }
+    ],
+    "require": {
+        "lighp/composer-lighp-installers": "dev-master",
+        "swiftmailer/swiftmailer": "^6.0@dev"
+    }
+}
